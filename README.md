@@ -35,5 +35,7 @@
 
 - [거스름돈 구하기](https://github.com/Runu09/SkillTest/blob/main/Runu/Runu1.java)
 
+- [두 수 사이의 숫자들의 합 계산](https://github.com/Runu09/SkillTest/blob/main/Runu/Runu2.java)
+  
 </div>
 </details>
