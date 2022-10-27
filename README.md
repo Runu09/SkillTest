@@ -22,6 +22,8 @@
 <summary>:two: 스킬 테스트</summary>
 <div markdown="1">       
 
+- [자연수 뒤집어 배열로 만들기](https://github.com/Runu09/SkillTest/blob/main/programmers/Skill1.java)
+
 </div>
 </details>
 
