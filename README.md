@@ -33,5 +33,7 @@
 <summary>:three: 심심~~</summary>
 <div markdown="1">       
 
+- [거스름돈 구하기](https://github.com/Runu09/SkillTest/blob/main/Runu/Runu1.java)
+
 </div>
 </details>
