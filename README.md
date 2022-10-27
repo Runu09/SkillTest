@@ -36,6 +36,8 @@
 - [거스름돈 구하기](https://github.com/Runu09/SkillTest/blob/main/Runu/Runu1.java)
 
 - [두 수 사이의 숫자들의 합 계산](https://github.com/Runu09/SkillTest/blob/main/Runu/Runu2.java)
-  
+
+- [입력 받은 문자에서 소문자 ‘a’의 개수 구하기](https://github.com/Runu09/SkillTest/blob/main/Runu/Runu3.java)
+
 </div>
 </details>
