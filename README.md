@@ -39,5 +39,7 @@
 
 - [입력 받은 문자에서 소문자 ‘a’의 개수 구하기](https://github.com/Runu09/SkillTest/blob/main/Runu/Runu3.java)
 
+- [배우 이름으로 영화 찾기](https://github.com/Runu09/SkillTest/blob/main/Runu/Runu4.java)
+
 </div>
 </details>
