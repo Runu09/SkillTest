@@ -24,6 +24,8 @@
 
 - [조건별로 분류하여 주문상태 출력하기(Oracle)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL1.sql)
 
+- [서울에 위치한 식당 목록 출력하기(MYSQL)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL2.sql)
+
 </div>
 </details>
 
