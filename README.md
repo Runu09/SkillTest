@@ -4,7 +4,7 @@
 <br>
 
 <details>
-<summary>:one: 코딩 테스트</summary>
+<summary>:one: 코딩 테스트(Java)</summary>
 <div markdown="1">       
 
 - [숫자 문자열과 영단어](https://github.com/Runu09/SkillTest/blob/main/programmers/Test1.java)
@@ -19,7 +19,18 @@
 <br>
 
 <details>
-<summary>:two: 스킬 테스트</summary>
+<summary>:two: 코딩 테스트(SQL)</summary>
+<div markdown="1">       
+
+
+
+</div>
+</details>
+
+<br>
+
+<details>
+<summary>:three: 스킬 테스트</summary>
 <div markdown="1">       
 
 - [자연수 뒤집어 배열로 만들기](https://github.com/Runu09/SkillTest/blob/main/programmers/Skill1.java)
@@ -30,7 +41,7 @@
 <br>
 
 <details>
-<summary>:three: 심심~~</summary>
+<summary>:four: 심심~~</summary>
 <div markdown="1">       
 
 - [거스름돈 구하기](https://github.com/Runu09/SkillTest/blob/main/Runu/Runu1.java)
