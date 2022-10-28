@@ -26,6 +26,8 @@
 
 - [서울에 위치한 식당 목록 출력하기(MYSQL)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL2.sql)
 
+- [오랜 기간 보호한 동물(2)(Oracle)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL3.sql)
+
 </div>
 </details>
 
