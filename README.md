@@ -13,6 +13,8 @@
 
 - [각도기](https://github.com/Runu09/SkillTest/blob/main/programmers/Test3.java)
 
+- [백준 10807번 (개수 세기)](https://github.com/Runu09/SkillTest/blob/main/Baekjoon/Test_1.java)
+
 </div>
 </details>
 
