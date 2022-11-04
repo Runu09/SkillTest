@@ -58,7 +58,7 @@
 
 - [배우 이름으로 영화 찾기](https://github.com/Runu09/SkillTest/blob/main/Runu/Runu4.java)
 
-- [정수 ](https://github.com/Runu09/SkillTest/blob/main/Runu/Runu5.java)
+- [정수 입력](https://github.com/Runu09/SkillTest/blob/main/Runu/Runu5.java)
 
 </div>
 </details>
