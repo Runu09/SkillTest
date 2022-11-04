@@ -15,6 +15,8 @@
 
 - [백준 10807번 (개수 세기)](https://github.com/Runu09/SkillTest/blob/main/Baekjoon/Test_1.java)
 
+- [백준 2506번 (점수계산)](https://github.com/Runu09/SkillTest/blob/main/Baekjoon/Test_2.java)
+
 </div>
 </details>
 
