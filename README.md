@@ -17,6 +17,8 @@
 
 - [백준 2506번 (점수계산)](https://github.com/Runu09/SkillTest/blob/main/Baekjoon/Test_2.java)
 
+- [백준 2566번 (최댓값)](https://github.com/Runu09/SkillTest/blob/main/Baekjoon/Test_3.java)
+
 </div>
 </details>
 
