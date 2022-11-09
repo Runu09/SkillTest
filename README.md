@@ -34,6 +34,14 @@
 
 - [오랜 기간 보호한 동물(2)(Oracle)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL3.sql)
 
+- [주문량이 많은 아이스크림들 조회하기](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL4.sql)
+
+- [있었는데요 없었습니다](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL5.sql)
+
+- [보호소에서 중성화한 동물](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL6.sql)
+
+- [오랜 기간 보호한 동물(1)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL7.sql)
+
 </div>
 </details>
 
