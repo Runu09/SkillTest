@@ -53,7 +53,7 @@
 
 - [자연수 뒤집어 배열로 만들기](https://github.com/Runu09/SkillTest/blob/main/programmers/Skill1.java)
 
--[가장 큰 수](https://github.com/Runu09/SkillTest/blob/main/programmers/Skill2.java)
+- [가장 큰 수](https://github.com/Runu09/SkillTest/blob/main/programmers/Skill2.java)
 
 </div>
 </details>
