@@ -42,6 +42,8 @@
 
 - [오랜 기간 보호한 동물(1)(Oracle)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL7.sql)
 
+- [취소되지 않은 진료 예약 조회하기(Oracle)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL8.sql)
+
 </div>
 </details>
 
