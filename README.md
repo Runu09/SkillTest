@@ -27,7 +27,16 @@
 <details>
 <summary>:two: 코딩 테스트(SQL)</summary>
 <div markdown="1">       
-
+    
+  <details>
+  <summary>Lv 1</summary>
+  <div markdown="1">  
+  
+  - [조건별로 분류하여 주문상태 출력하기(Oracle)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL1.sql)
+    
+  </div>
+  </details>
+  
 - [조건별로 분류하여 주문상태 출력하기(Oracle)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL1.sql)
 
 - [서울에 위치한 식당 목록 출력하기(MYSQL)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL2.sql)
