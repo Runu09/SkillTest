@@ -44,6 +44,8 @@
 
 - [취소되지 않은 진료 예약 조회하기(Oracle)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL8.sql)
 
+- [오프라인/온라인 판매 데이터 통합하기(Oracle)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL9.sql)
+
 </div>
 </details>
 
