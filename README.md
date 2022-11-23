@@ -19,6 +19,8 @@
 
 - [백준 2566번 (최댓값)](https://github.com/Runu09/SkillTest/blob/main/Baekjoon/Test_3.java)
 
+- [백준 10818번 (최소, 최대)](https://github.com/Runu09/SkillTest/blob/main/Baekjoon/Test_4.java)
+
 </div>
 </details>
 
