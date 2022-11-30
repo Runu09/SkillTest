@@ -52,6 +52,8 @@
 
 - [재구매가 일어난 상품과 회원 리스트 구하기(Oracle)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL11.sql)
 
+- [입양 시각 구하기(1)](Oracle)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL12.sql)
+
 </div>
 </details>
 
