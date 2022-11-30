@@ -48,6 +48,8 @@
 
 - [오프라인/온라인 판매 데이터 통합하기(Oracle)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL9.sql)
 
+- [카테고리 별 상품 개수 구하기(Oracle)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL10.sql)
+
 </div>
 </details>
 
