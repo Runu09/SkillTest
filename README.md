@@ -50,6 +50,8 @@
 
 - [카테고리 별 상품 개수 구하기(Oracle)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL10.sql)
 
+- [재구매가 일어난 상품과 회원 리스트 구하기(Oracle)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL11.sql)
+
 </div>
 </details>
 
