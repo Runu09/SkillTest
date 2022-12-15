@@ -54,6 +54,8 @@
 
 - [입양 시각 구하기(1)(Oracle, MYSQL)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL12.sql)
 
+- [카테고리 별 도서 판매량 집계하기(Oracle)](https://github.com/Runu09/SkillTest/blob/main/programmers/TestSQL13.sql)
+
 </div>
 </details>
 
